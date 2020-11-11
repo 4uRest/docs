@@ -1,4 +1,4 @@
-- [Documentación de la Base de Datos](./docs/web/index)
+- [Documentación de la Base de Datos](./web/index)
     - [Menu](./web/menu/index)
         - [Ingredientes](./web/menu/Ingredients)
         - [Categorías de Ingredientes](./web/menu/IngredientCategories)
